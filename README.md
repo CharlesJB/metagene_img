@@ -1,4 +1,4 @@
 metagene_img
 ============
 
-Images for metagene wiki
+Images for metagene wiki.
